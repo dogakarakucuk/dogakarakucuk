@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dogakarakucuk
-- 👀 I’m currently Traniee on BilgeAdam Boost
+- 👀 I’m currently Trainee on BilgeAdam Boost
 - 🌱 I’m currently learning .Net Core
 - 📫 How to reach me dogaakarakucuk@gmail.com
 
